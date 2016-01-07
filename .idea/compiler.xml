@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="MavenProject" />
+        <module name="SpringMvcFormHandle" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MavenProject" target="1.8" />
+      <module name="SpringMvcFormHandle" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

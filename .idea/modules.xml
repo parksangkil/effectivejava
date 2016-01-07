@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FirstChapter/FirstChapter.iml" filepath="$PROJECT_DIR$/FirstChapter/FirstChapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/MavenProject/MavenProject.iml" filepath="$PROJECT_DIR$/MavenProject/MavenProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcFormHandle.iml" filepath="$PROJECT_DIR$/SpringMvcFormHandle.iml" />
       <module fileurl="file://$PROJECT_DIR$/effectivejava.iml" filepath="$PROJECT_DIR$/effectivejava.iml" />
       <module fileurl="file://$PROJECT_DIR$/gradleTest/gradleTest.iml" filepath="$PROJECT_DIR$/gradleTest/gradleTest.iml" />
     </modules>
